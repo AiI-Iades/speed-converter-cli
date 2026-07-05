@@ -1,2 +1,1 @@
-# speed-converter-cli
-CLI tool for converting speed units (km/h, m/s, mph, knots)
+# Speed Converter CLI\nConvert between common speed units like kilometers per hour (km/h), meters per second (m/s), miles per hour (mph), and knots (kn).\n\nUsage: `speed-converter <value> <from-unit> <to-unit>`\nExample: `speed-converter 100 km/h m/s`
